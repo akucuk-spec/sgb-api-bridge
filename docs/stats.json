@@ -1,73 +1,73 @@
 {
-  "last_update_utc": "2026-10-15T06:16:53.606169+00:00",
+  "last_update_utc": "2026-10-17T09:46:12.689647+00:00",
   "mode": "full",
   "counts": {
-    "domain": 392863,
+    "domain": 356866,
     "url": 6927,
-    "ip": 15686,
+    "ip": 15752,
     "ip6": 6,
     "ip6net": 0
   },
   "in_progress": null,
   "state": {
     "domain": {
-      "max_id": 1178948,
-      "last_full_sync": "2026-10-15T06:15:49.756470+00:00",
+      "max_id": 1180500,
+      "last_full_sync": "2026-10-17T09:45:14.325860+00:00",
       "last_delta_sync": "2026-05-17T22:11:24.276260+00:00",
-      "total_count": 474608
+      "total_count": 475125
     },
     "url": {
       "max_id": 851416,
-      "last_full_sync": "2026-10-15T06:16:15.912905+00:00",
+      "last_full_sync": "2026-10-17T09:45:41.292725+00:00",
       "last_delta_sync": "2026-05-17T22:11:25.915892+00:00",
       "total_count": 6927
     },
     "ip": {
-      "max_id": 1178686,
-      "last_full_sync": "2026-10-15T06:16:49.710538+00:00",
+      "max_id": 1180274,
+      "last_full_sync": "2026-10-17T09:46:11.196536+00:00",
       "last_delta_sync": "2026-05-17T22:11:27.271738+00:00",
-      "total_count": 15686
+      "total_count": 15752
     },
     "ip6": {
       "max_id": 780782,
-      "last_full_sync": "2026-10-15T06:16:50.237379+00:00",
+      "last_full_sync": "2026-10-17T09:46:11.683430+00:00",
       "last_delta_sync": "2026-05-17T22:11:28.677553+00:00",
       "total_count": 6
     },
     "ip6net": {
       "max_id": 0,
-      "last_full_sync": "2026-10-15T06:16:52.752241+00:00",
+      "last_full_sync": "2026-10-17T09:46:12.168637+00:00",
       "last_delta_sync": "2026-05-17T22:11:29.708890+00:00",
-      "total_count": 0
+      "total_count": null
     }
   },
   "db": {
     "per_type_active": {
-      "domain": 392904,
-      "ip": 15686,
+      "domain": 356904,
+      "ip": 15752,
       "ip6": 6,
       "url": 6927
     },
-    "total_active": 415523,
-    "removed": 81636,
+    "total_active": 379589,
+    "removed": 118154,
     "by_connectiontype": {
-      "AC": 6169,
-      "BC": 12193,
-      "EK": 39,
-      "MC": 4458,
-      "MF": 2707,
-      "MM": 32,
-      "OT": 84517,
-      "PH": 305408
+      "AC": 5064,
+      "BC": 10729,
+      "EK": 38,
+      "MC": 2143,
+      "MF": 1733,
+      "MM": 30,
+      "OT": 82307,
+      "PH": 277545
     },
     "by_category": {
-      "BP": 212304,
-      "CA": 1103,
-      "MC": 41842,
-      "MD": 49259,
+      "BP": 187720,
+      "CA": 1112,
+      "MC": 35388,
+      "MD": 47764,
       "MI": 4162,
-      "MU": 2966,
-      "PH": 103887
+      "MU": 2950,
+      "PH": 100493
     }
   }
 }
